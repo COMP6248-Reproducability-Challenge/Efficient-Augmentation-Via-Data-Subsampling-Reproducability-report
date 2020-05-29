@@ -2,8 +2,9 @@
 ## Title: EFFICIENT AUGMENTATION VIA DATA SUBSAMPLING
 ---
 ### Team alpha
-Mateusz Pietrkiewicz 		mp8n19
-Arnold Gabriel Benedict 	agb1n19
+
+Mateusz Pietrkiewicz 		mp8n19 \\
+Arnold Gabriel Benedict 	agb1n19 \\
 Sunwung Lee 				sl7a19
 ---
 ### Paper
